@@ -6,5 +6,6 @@ public class Demon {
         System.out.println("wostimbaaohai1");
         System.out.println("master");
         System.out.println("hassdsdgj");
+        System.out.println("fuck you Tao!");
     }
 }
