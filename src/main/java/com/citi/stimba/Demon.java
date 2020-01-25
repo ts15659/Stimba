@@ -6,8 +6,8 @@ public class Demon {
         System.out.println("app");
         System.out.println("wostimbaaohai1");
         System.out.println("fuck you Tao!");
-        System.out.println("nihjgfgl");
-        System.out.println("wohji1");
+        System.out.println("nasdjgfgl");
+        System.out.println("woasdwe1");
         System.out.println("mcter");
         System.out.println("hgj");
     }
