@@ -4,5 +4,6 @@ public class Demon {
 
     public void lonely(){
         System.out.println("aopiomuiup");
+        System.out.println("aplkiup");
     }
 }
